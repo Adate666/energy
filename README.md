@@ -25,11 +25,11 @@ To view this project locally, follow these steps:
 
 1.  Clone the repository:
     ```bash
-    git clone <REPOSITORY_URL>
+    git clone [<REPOSITORY_URL>](https://github.com/Adate666/energy.git)
     ```
 2.  Navigate to the project directory:
     ```bash
-    cd "landing pad Energie futur"
+    cd "landing page Energie futur"
     ```
 3.  Open the `main.html` file in your preferred web browser.
 
