@@ -4,20 +4,20 @@ A modern and responsive landing page for a future energy company, showcasing its
 
 ## Features
 
-*   Responsive design to adapt to different screen sizes.
-*   Navigation menu (desktop and mobile).
-*   Hero section with a call to action.
-*   Dedicated sections for solutions, benefits, process, and testimonials.
-*   Contact form.
-*   Smooth animations (fadeInUp).
+- Responsive design to adapt to different screen sizes.
+- Navigation menu (desktop and mobile).
+- Hero section with a call to action.
+- Dedicated sections for solutions, benefits, process, and testimonials.
+- Contact form.
+- Smooth animations (fadeInUp).
 
 ## Technologies Used
 
-*   HTML5
-*   CSS3 (external `style.css` file)
-*   JavaScript (external `script.js` file)
-*   Tailwind CSS (via CDN)
-*   Google Fonts (Poppins)
+- HTML5
+- CSS3 (external `style.css` file)
+- JavaScript (external `script.js` file)
+- Tailwind CSS (via CDN)
+- Google Fonts (Poppins)
 
 ## Installation and Usage
 
@@ -25,11 +25,11 @@ To view this project locally, follow these steps:
 
 1.  Clone the repository:
     ```bash
-    git clone <REPOSITORY_URL>
+    git clone (https://github.com/Adate666/energy.git)
     ```
 2.  Navigate to the project directory:
     ```bash
-    cd "landing pad Energie futur"
+    cd "landing page Energie futur"
     ```
 3.  Open the `main.html` file in your preferred web browser.
 
